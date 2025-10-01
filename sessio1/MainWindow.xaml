@@ -5,9 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:sessio1"
         mc:Ignorable="d"
-        Title="ProjecteFinalAppDefinitivaUltimaVersio2025" Height="600" Width="400">
-    <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="69,155,0,0" TextWrapping="Wrap" Text="tocam" VerticalAlignment="Top" Height="182" Width="214"/>
+        Title="Creació Nom" Height="600" Width="525">
+    <StackPanel>
+        <Label Content="Nom"></Label>
+        <TextBox Width="529" Height="30" Text="{Binding Path=nom, Mode=TwoWay}"></TextBox>
+        <Label Content="Cognom"></Label>
+        <TextBox Width="529" Height="30" Text="{Binding Path=cognom, Mode=TwoWay}" TextChanged="TextBox_TextChanged"></TextBox>
+        <Label Content="Nom Complet"></Label>
+        <TextBox Width="529" Height="30" Text="{Binding Path=nom_complet, Mode=TwoWay}"></TextBox>
 
-    </Grid>
+    </StackPanel>
 </Window>
