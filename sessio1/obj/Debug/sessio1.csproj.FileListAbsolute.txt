@@ -1,0 +1,16 @@
+C:\Insti\interficies\sessio1\sessio1\bin\Debug\sessio1.exe.config
+C:\Insti\interficies\sessio1\sessio1\bin\Debug\sessio1.exe
+C:\Insti\interficies\sessio1\sessio1\bin\Debug\sessio1.pdb
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.csproj.AssemblyReference.cache
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\MainWindow.g.cs
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\App.g.cs
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1_MarkupCompile.cache
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1_MarkupCompile.lref
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\MainWindow.baml
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.g.resources
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.Properties.Resources.resources
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.csproj.GenerateResource.cache
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.csproj.CoreCompileInputs.cache
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.exe
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.pdb
+C:\Insti\interficies\sessio1\sessio1\obj\Debug\sessio1.exe.config
